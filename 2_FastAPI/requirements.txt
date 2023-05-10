@@ -1,0 +1,13 @@
+fastapi 
+uvicorn[standard]
+pydantic 
+typing 
+pandas
+gunicorn 
+sklearn
+openpyxl
+python-multipart
+joblib
+numpy
+typing
+scikit-learn==1.0.2
